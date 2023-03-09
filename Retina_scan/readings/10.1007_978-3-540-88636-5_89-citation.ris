@@ -1,0 +1,19 @@
+TY  - CONF
+AU  - Pourreza, Reza
+AU  - Banaee, Touka
+AU  - Pourreza, Hamidreza
+AU  - Kakhki, Ramin Daneshvar
+ED  - Gelbukh, Alexander
+ED  - Morales, Eduardo F.
+PY  - 2008
+DA  - 2008//
+TI  - A Radon Transform Based Approach for Extraction of Blood Vessels in Conjunctival Images
+BT  - MICAI 2008: Advances in Artificial Intelligence
+SP  - 948
+EP  - 956
+PB  - Springer Berlin Heidelberg
+CY  - Berlin, Heidelberg
+AB  - This paper proposes a local Radon transform-based algorithm for extraction of blood vessels in conjunctival images. This algorithm divides the image into overlapping windows and applies Radon transform to each window. Vessel direction in each window is found by detection of peak in Radon space. The proposed algorithm is capable of extracting blood vessels with a variety of widths. According to vessel width, extracted blood vessels are classified into some predefined classes and several statistics are computed for each class. Since the Radon transform is robust against noise, proposed algorithm is noise-independent and is more robust in comparison with other available algorithms.
+SN  - 978-3-540-88636-5
+ID  - 10.1007/978-3-540-88636-5_89
+ER  - 
